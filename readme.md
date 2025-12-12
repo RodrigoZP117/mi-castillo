@@ -1,2 +1,2 @@
-# Mi primer proyecto en VS Cdoe
-Aprendiendo paso a paso con Git y Git Hub
+## Documentación
+Este proyecto se usa para practicar Git y GitHub desde VS Code
