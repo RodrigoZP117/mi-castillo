@@ -1,1 +1,1 @@
-Este es el archivo de textos creado en la nueva rama.
+Línea cambiada desde la rama feature-textos
